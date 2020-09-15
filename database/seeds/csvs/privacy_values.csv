@@ -1,0 +1,4 @@
+key,name
+public,{"en": "Public"}
+private,{"en": "Private"}
+secret,{"en": "Secret"}

@@ -1,0 +1,10 @@
+id,key,name
+1,en,{"en": "English"}
+2,fr,{"en": "French"}
+3,ar,{"en": "Arabic"}
+4,ma,{"en": "Mandarin Chinese"}
+5,sp,{"en": "Spanish"}
+6,hi,{"en": "Hindi"}
+7,pr,{"en": "Portuguese"}
+8,be,{"en": "Bengali"}
+9,ru,{"en": "Russian"}

@@ -1,0 +1,6 @@
+key,name
+visible_to_all,"{""en"": ""Visible to all Meet and Mingle users""}"
+visible_to_extended_friends,"{""en"": ""Visible to friends and friends of friends""}"
+visible_only_to_friends,"{""en"": ""Visible only to friends""}"
+hidden,"{""en"": ""Visible only to me""}"
+hidden_from_search,"{""en"": ""Hidden from search""}"

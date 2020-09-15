@@ -1,0 +1,4 @@
+key,name
+created_event,{"en": "Created an event"}
+created_community,{"en": "Created a community"}
+friendship_created,{"en": "Friendship established"}

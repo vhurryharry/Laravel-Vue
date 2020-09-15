@@ -1,0 +1,418 @@
+key,name
+Pacific/Midway,{"en": "(UTC-11:00) Midway"}
+Pacific/Niue,{"en": "(UTC-11:00) Niue"}
+Pacific/Pago_Pago,{"en": "(UTC-11:00) Pago Pago"}
+America/Adak,{"en": "(UTC-10:00) Adak"}
+Pacific/Honolulu,{"en": "(UTC-10:00) Honolulu"}
+Pacific/Johnston,{"en": "(UTC-10:00) Johnston"}
+Pacific/Rarotonga,{"en": "(UTC-10:00) Rarotonga"}
+Pacific/Tahiti,{"en": "(UTC-10:00) Tahiti"}
+Pacific/Marquesas,{"en": "(UTC-09:30) Marquesas"}
+America/Anchorage,{"en": "(UTC-09:00) Anchorage"}
+Pacific/Gambier,{"en": "(UTC-09:00) Gambier"}
+America/Juneau,{"en": "(UTC-09:00) Juneau"}
+America/Nome,{"en": "(UTC-09:00) Nome"}
+America/Sitka,{"en": "(UTC-09:00) Sitka"}
+America/Yakutat,{"en": "(UTC-09:00) Yakutat"}
+America/Dawson,{"en": "(UTC-08:00) Dawson"}
+America/Los_Angeles,{"en": "(UTC-08:00) Los Angeles"}
+America/Metlakatla,{"en": "(UTC-08:00) Metlakatla"}
+Pacific/Pitcairn,{"en": "(UTC-08:00) Pitcairn"}
+America/Santa_Isabel,{"en": "(UTC-08:00) Santa Isabel"}
+America/Tijuana,{"en": "(UTC-08:00) Tijuana"}
+America/Vancouver,{"en": "(UTC-08:00) Vancouver"}
+America/Whitehorse,{"en": "(UTC-08:00) Whitehorse"}
+America/Boise,{"en": "(UTC-07:00) Boise"}
+America/Cambridge_Bay,{"en": "(UTC-07:00) Cambridge Bay"}
+America/Chihuahua,{"en": "(UTC-07:00) Chihuahua"}
+America/Creston,{"en": "(UTC-07:00) Creston"}
+America/Dawson_Creek,{"en": "(UTC-07:00) Dawson Creek"}
+America/Denver,{"en": "(UTC-07:00) Denver"}
+America/Edmonton,{"en": "(UTC-07:00) Edmonton"}
+America/Hermosillo,{"en": "(UTC-07:00) Hermosillo"}
+America/Inuvik,{"en": "(UTC-07:00) Inuvik"}
+America/Mazatlan,{"en": "(UTC-07:00) Mazatlan"}
+America/Ojinaga,{"en": "(UTC-07:00) Ojinaga"}
+America/Phoenix,{"en": "(UTC-07:00) Phoenix"}
+America/Shiprock,{"en": "(UTC-07:00) Shiprock"}
+America/Yellowknife,{"en": "(UTC-07:00) Yellowknife"}
+America/Bahia_Banderas,{"en": "(UTC-06:00) Bahia Banderas"}
+America/Belize,{"en": "(UTC-06:00) Belize"}
+America/North_Dakota/Beulah,{"en": "(UTC-06:00) Beulah"}
+America/Cancun,{"en": "(UTC-06:00) Cancun"}
+America/North_Dakota/Center,{"en": "(UTC-06:00) Center"}
+America/Chicago,{"en": "(UTC-06:00) Chicago"}
+America/Costa_Rica,{"en": "(UTC-06:00) Costa Rica"}
+Pacific/Easter,{"en": "(UTC-06:00) Easter"}
+America/El_Salvador,{"en": "(UTC-06:00) El Salvador"}
+Pacific/Galapagos,{"en": "(UTC-06:00) Galapagos"}
+America/Guatemala,{"en": "(UTC-06:00) Guatemala"}
+America/Indiana/Knox,{"en": "(UTC-06:00) Knox"}
+America/Managua,{"en": "(UTC-06:00) Managua"}
+America/Matamoros,{"en": "(UTC-06:00) Matamoros"}
+America/Menominee,{"en": "(UTC-06:00) Menominee"}
+America/Merida,{"en": "(UTC-06:00) Merida"}
+America/Mexico_City,{"en": "(UTC-06:00) Mexico City"}
+America/Monterrey,{"en": "(UTC-06:00) Monterrey"}
+America/North_Dakota/New_Salem,{"en": "(UTC-06:00) New Salem"}
+America/Rainy_River,{"en": "(UTC-06:00) Rainy River"}
+America/Rankin_Inlet,{"en": "(UTC-06:00) Rankin Inlet"}
+America/Regina,{"en": "(UTC-06:00) Regina"}
+America/Resolute,{"en": "(UTC-06:00) Resolute"}
+America/Swift_Current,{"en": "(UTC-06:00) Swift Current"}
+America/Tegucigalpa,{"en": "(UTC-06:00) Tegucigalpa"}
+America/Indiana/Tell_City,{"en": "(UTC-06:00) Tell City"}
+America/Winnipeg,{"en": "(UTC-06:00) Winnipeg"}
+America/Atikokan,{"en": "(UTC-05:00) Atikokan"}
+America/Bogota,{"en": "(UTC-05:00) Bogota"}
+America/Cayman,{"en": "(UTC-05:00) Cayman"}
+America/Detroit,{"en": "(UTC-05:00) Detroit"}
+America/Grand_Turk,{"en": "(UTC-05:00) Grand Turk"}
+America/Guayaquil,{"en": "(UTC-05:00) Guayaquil"}
+America/Havana,{"en": "(UTC-05:00) Havana"}
+America/Indiana/Indianapolis,{"en": "(UTC-05:00) Indianapolis"}
+America/Iqaluit,{"en": "(UTC-05:00) Iqaluit"}
+America/Jamaica,{"en": "(UTC-05:00) Jamaica"}
+America/Lima,{"en": "(UTC-05:00) Lima"}
+America/Kentucky/Louisville,{"en": "(UTC-05:00) Louisville"}
+America/Indiana/Marengo,{"en": "(UTC-05:00) Marengo"}
+America/Kentucky/Monticello,{"en": "(UTC-05:00) Monticello"}
+America/Montreal,{"en": "(UTC-05:00) Montreal"}
+America/Nassau,{"en": "(UTC-05:00) Nassau"}
+America/New_York,{"en": "(UTC-05:00) New York"}
+America/Nipigon,{"en": "(UTC-05:00) Nipigon"}
+America/Panama,{"en": "(UTC-05:00) Panama"}
+America/Pangnirtung,{"en": "(UTC-05:00) Pangnirtung"}
+America/Indiana/Petersburg,{"en": "(UTC-05:00) Petersburg"}
+America/Port-au-Prince,{"en": "(UTC-05:00) Port-au-Prince"}
+America/Thunder_Bay,{"en": "(UTC-05:00) Thunder Bay"}
+America/Toronto,{"en": "(UTC-05:00) Toronto"}
+America/Indiana/Vevay,{"en": "(UTC-05:00) Vevay"}
+America/Indiana/Vincennes,{"en": "(UTC-05:00) Vincennes"}
+America/Indiana/Winamac,{"en": "(UTC-05:00) Winamac"}
+America/Caracas,{"en": "(UTC-04:30) Caracas"}
+America/Anguilla,{"en": "(UTC-04:00) Anguilla"}
+America/Antigua,{"en": "(UTC-04:00) Antigua"}
+America/Aruba,{"en": "(UTC-04:00) Aruba"}
+America/Asuncion,{"en": "(UTC-04:00) Asuncion"}
+America/Barbados,{"en": "(UTC-04:00) Barbados"}
+Atlantic/Bermuda,{"en": "(UTC-04:00) Bermuda"}
+America/Blanc-Sablon,{"en": "(UTC-04:00) Blanc-Sablon"}
+America/Boa_Vista,{"en": "(UTC-04:00) Boa Vista"}
+America/Campo_Grande,{"en": "(UTC-04:00) Campo Grande"}
+America/Cuiaba,{"en": "(UTC-04:00) Cuiaba"}
+America/Curacao,{"en": "(UTC-04:00) Curacao"}
+America/Dominica,{"en": "(UTC-04:00) Dominica"}
+America/Eirunepe,{"en": "(UTC-04:00) Eirunepe"}
+America/Glace_Bay,{"en": "(UTC-04:00) Glace Bay"}
+America/Goose_Bay,{"en": "(UTC-04:00) Goose Bay"}
+America/Grenada,{"en": "(UTC-04:00) Grenada"}
+America/Guadeloupe,{"en": "(UTC-04:00) Guadeloupe"}
+America/Guyana,{"en": "(UTC-04:00) Guyana"}
+America/Halifax,{"en": "(UTC-04:00) Halifax"}
+America/Kralendijk,{"en": "(UTC-04:00) Kralendijk"}
+America/La_Paz,{"en": "(UTC-04:00) La Paz"}
+America/Lower_Princes,{"en": "(UTC-04:00) Lower Princes"}
+America/Manaus,{"en": "(UTC-04:00) Manaus"}
+America/Marigot,{"en": "(UTC-04:00) Marigot"}
+America/Martinique,{"en": "(UTC-04:00) Martinique"}
+America/Moncton,{"en": "(UTC-04:00) Moncton"}
+America/Montserrat,{"en": "(UTC-04:00) Montserrat"}
+Antarctica/Palmer,{"en": "(UTC-04:00) Palmer"}
+America/Port_of_Spain,{"en": "(UTC-04:00) Port of Spain"}
+America/Porto_Velho,{"en": "(UTC-04:00) Porto Velho"}
+America/Puerto_Rico,{"en": "(UTC-04:00) Puerto Rico"}
+America/Rio_Branco,{"en": "(UTC-04:00) Rio Branco"}
+America/Santiago,{"en": "(UTC-04:00) Santiago"}
+America/Santo_Domingo,{"en": "(UTC-04:00) Santo Domingo"}
+America/St_Barthelemy,{"en": "(UTC-04:00) St. Barthelemy"}
+America/St_Kitts,{"en": "(UTC-04:00) St. Kitts"}
+America/St_Lucia,{"en": "(UTC-04:00) St. Lucia"}
+America/St_Thomas,{"en": "(UTC-04:00) St. Thomas"}
+America/St_Vincent,{"en": "(UTC-04:00) St. Vincent"}
+America/Thule,{"en": "(UTC-04:00) Thule"}
+America/Tortola,{"en": "(UTC-04:00) Tortola"}
+America/St_Johns,{"en": "(UTC-03:30) St. Johns"}
+America/Araguaina,{"en": "(UTC-03:00) Araguaina"}
+America/Bahia,{"en": "(UTC-03:00) Bahia"}
+America/Belem,{"en": "(UTC-03:00) Belem"}
+America/Argentina/Buenos_Aires,{"en": "(UTC-03:00) Buenos Aires"}
+America/Argentina/Catamarca,{"en": "(UTC-03:00) Catamarca"}
+America/Cayenne,{"en": "(UTC-03:00) Cayenne"}
+America/Argentina/Cordoba,{"en": "(UTC-03:00) Cordoba"}
+America/Fortaleza,{"en": "(UTC-03:00) Fortaleza"}
+America/Godthab,{"en": "(UTC-03:00) Godthab"}
+America/Argentina/Jujuy,{"en": "(UTC-03:00) Jujuy"}
+America/Argentina/La_Rioja,{"en": "(UTC-03:00) La Rioja"}
+America/Maceio,{"en": "(UTC-03:00) Maceio"}
+America/Argentina/Mendoza,{"en": "(UTC-03:00) Mendoza"}
+America/Miquelon,{"en": "(UTC-03:00) Miquelon"}
+America/Montevideo,{"en": "(UTC-03:00) Montevideo"}
+America/Paramaribo,{"en": "(UTC-03:00) Paramaribo"}
+America/Recife,{"en": "(UTC-03:00) Recife"}
+America/Argentina/Rio_Gallegos,{"en": "(UTC-03:00) Rio Gallegos"}
+Antarctica/Rothera,{"en": "(UTC-03:00) Rothera"}
+America/Argentina/Salta,{"en": "(UTC-03:00) Salta"}
+America/Argentina/San_Juan,{"en": "(UTC-03:00) San Juan"}
+America/Argentina/San_Luis,{"en": "(UTC-03:00) San Luis"}
+America/Santarem,{"en": "(UTC-03:00) Santarem"}
+America/Sao_Paulo,{"en": "(UTC-03:00) Sao Paulo"}
+Atlantic/Stanley,{"en": "(UTC-03:00) Stanley"}
+America/Argentina/Tucuman,{"en": "(UTC-03:00) Tucuman"}
+America/Argentina/Ushuaia,{"en": "(UTC-03:00) Ushuaia"}
+America/Noronha,{"en": "(UTC-02:00) Noronha"}
+Atlantic/South_Georgia,{"en": "(UTC-02:00) South Georgia"}
+Atlantic/Azores,{"en": "(UTC-01:00) Azores"}
+Atlantic/Cape_Verde,{"en": "(UTC-01:00) Cape Verde"}
+America/Scoresbysund,{"en": "(UTC-01:00) Scoresbysund"}
+Africa/Abidjan,{"en": "(UTC+00:00) Abidjan"}
+Africa/Accra,{"en": "(UTC+00:00) Accra"}
+Africa/Bamako,{"en": "(UTC+00:00) Bamako"}
+Africa/Banjul,{"en": "(UTC+00:00) Banjul"}
+Africa/Bissau,{"en": "(UTC+00:00) Bissau"}
+Atlantic/Canary,{"en": "(UTC+00:00) Canary"}
+Africa/Casablanca,{"en": "(UTC+00:00) Casablanca"}
+Africa/Conakry,{"en": "(UTC+00:00) Conakry"}
+Africa/Dakar,{"en": "(UTC+00:00) Dakar"}
+America/Danmarkshavn,{"en": "(UTC+00:00) Danmarkshavn"}
+Europe/Dublin,{"en": "(UTC+00:00) Dublin"}
+Africa/El_Aaiun,{"en": "(UTC+00:00) El Aaiun"}
+Atlantic/Faroe,{"en": "(UTC+00:00) Faroe"}
+Africa/Freetown,{"en": "(UTC+00:00) Freetown"}
+Europe/Guernsey,{"en": "(UTC+00:00) Guernsey"}
+Europe/Isle_of_Man,{"en": "(UTC+00:00) Isle of Man"}
+Europe/Jersey,{"en": "(UTC+00:00) Jersey"}
+Europe/Lisbon,{"en": "(UTC+00:00) Lisbon"}
+Africa/Lome,{"en": "(UTC+00:00) Lome"}
+Europe/London,{"en": "(UTC+00:00) London"}
+Atlantic/Madeira,{"en": "(UTC+00:00) Madeira"}
+Africa/Monrovia,{"en": "(UTC+00:00) Monrovia"}
+Africa/Nouakchott,{"en": "(UTC+00:00) Nouakchott"}
+Africa/Ouagadougou,{"en": "(UTC+00:00) Ouagadougou"}
+Atlantic/Reykjavik,{"en": "(UTC+00:00) Reykjavik"}
+Africa/Sao_Tome,{"en": "(UTC+00:00) Sao Tome"}
+Atlantic/St_Helena,{"en": "(UTC+00:00) St. Helena"}
+UTC,{"en": "(UTC+00:00) UTC"}
+Africa/Algiers,{"en": "(UTC+01:00) Algiers"}
+Europe/Amsterdam,{"en": "(UTC+01:00) Amsterdam"}
+Europe/Andorra,{"en": "(UTC+01:00) Andorra"}
+Africa/Bangui,{"en": "(UTC+01:00) Bangui"}
+Europe/Belgrade,{"en": "(UTC+01:00) Belgrade"}
+Europe/Berlin,{"en": "(UTC+01:00) Berlin"}
+Europe/Bratislava,{"en": "(UTC+01:00) Bratislava"}
+Africa/Brazzaville,{"en": "(UTC+01:00) Brazzaville"}
+Europe/Brussels,{"en": "(UTC+01:00) Brussels"}
+Europe/Budapest,{"en": "(UTC+01:00) Budapest"}
+Europe/Busingen,{"en": "(UTC+01:00) Busingen"}
+Africa/Ceuta,{"en": "(UTC+01:00) Ceuta"}
+Europe/Copenhagen,{"en": "(UTC+01:00) Copenhagen"}
+Africa/Douala,{"en": "(UTC+01:00) Douala"}
+Europe/Gibraltar,{"en": "(UTC+01:00) Gibraltar"}
+Africa/Kinshasa,{"en": "(UTC+01:00) Kinshasa"}
+Africa/Lagos,{"en": "(UTC+01:00) Lagos"}
+Africa/Libreville,{"en": "(UTC+01:00) Libreville"}
+Europe/Ljubljana,{"en": "(UTC+01:00) Ljubljana"}
+Arctic/Longyearbyen,{"en": "(UTC+01:00) Longyearbyen"}
+Africa/Luanda,{"en": "(UTC+01:00) Luanda"}
+Europe/Luxembourg,{"en": "(UTC+01:00) Luxembourg"}
+Europe/Madrid,{"en": "(UTC+01:00) Madrid"}
+Africa/Malabo,{"en": "(UTC+01:00) Malabo"}
+Europe/Malta,{"en": "(UTC+01:00) Malta"}
+Europe/Monaco,{"en": "(UTC+01:00) Monaco"}
+Africa/Ndjamena,{"en": "(UTC+01:00) Ndjamena"}
+Africa/Niamey,{"en": "(UTC+01:00) Niamey"}
+Europe/Oslo,{"en": "(UTC+01:00) Oslo"}
+Europe/Paris,{"en": "(UTC+01:00) Paris"}
+Europe/Podgorica,{"en": "(UTC+01:00) Podgorica"}
+Africa/Porto-Novo,{"en": "(UTC+01:00) Porto-Novo"}
+Europe/Prague,{"en": "(UTC+01:00) Prague"}
+Europe/Rome,{"en": "(UTC+01:00) Rome"}
+Europe/San_Marino,{"en": "(UTC+01:00) San Marino"}
+Europe/Sarajevo,{"en": "(UTC+01:00) Sarajevo"}
+Europe/Skopje,{"en": "(UTC+01:00) Skopje"}
+Europe/Stockholm,{"en": "(UTC+01:00) Stockholm"}
+Europe/Tirane,{"en": "(UTC+01:00) Tirane"}
+Africa/Tripoli,{"en": "(UTC+01:00) Tripoli"}
+Africa/Tunis,{"en": "(UTC+01:00) Tunis"}
+Europe/Vaduz,{"en": "(UTC+01:00) Vaduz"}
+Europe/Vatican,{"en": "(UTC+01:00) Vatican"}
+Europe/Vienna,{"en": "(UTC+01:00) Vienna"}
+Europe/Warsaw,{"en": "(UTC+01:00) Warsaw"}
+Africa/Windhoek,{"en": "(UTC+01:00) Windhoek"}
+Europe/Zagreb,{"en": "(UTC+01:00) Zagreb"}
+Europe/Zurich,{"en": "(UTC+01:00) Zurich"}
+Europe/Athens,{"en": "(UTC+02:00) Athens"}
+Asia/Beirut,{"en": "(UTC+02:00) Beirut"}
+Africa/Blantyre,{"en": "(UTC+02:00) Blantyre"}
+Europe/Bucharest,{"en": "(UTC+02:00) Bucharest"}
+Africa/Bujumbura,{"en": "(UTC+02:00) Bujumbura"}
+Africa/Cairo,{"en": "(UTC+02:00) Cairo"}
+Europe/Chisinau,{"en": "(UTC+02:00) Chisinau"}
+Asia/Damascus,{"en": "(UTC+02:00) Damascus"}
+Africa/Gaborone,{"en": "(UTC+02:00) Gaborone"}
+Asia/Gaza,{"en": "(UTC+02:00) Gaza"}
+Africa/Harare,{"en": "(UTC+02:00) Harare"}
+Asia/Hebron,{"en": "(UTC+02:00) Hebron"}
+Europe/Helsinki,{"en": "(UTC+02:00) Helsinki"}
+Europe/Istanbul,{"en": "(UTC+02:00) Istanbul"}
+Asia/Jerusalem,{"en": "(UTC+02:00) Jerusalem"}
+Africa/Johannesburg,{"en": "(UTC+02:00) Johannesburg"}
+Europe/Kiev,{"en": "(UTC+02:00) Kiev"}
+Africa/Kigali,{"en": "(UTC+02:00) Kigali"}
+Africa/Lubumbashi,{"en": "(UTC+02:00) Lubumbashi"}
+Africa/Lusaka,{"en": "(UTC+02:00) Lusaka"}
+Africa/Maputo,{"en": "(UTC+02:00) Maputo"}
+Europe/Mariehamn,{"en": "(UTC+02:00) Mariehamn"}
+Africa/Maseru,{"en": "(UTC+02:00) Maseru"}
+Africa/Mbabane,{"en": "(UTC+02:00) Mbabane"}
+Asia/Nicosia,{"en": "(UTC+02:00) Nicosia"}
+Europe/Riga,{"en": "(UTC+02:00) Riga"}
+Europe/Simferopol,{"en": "(UTC+02:00) Simferopol"}
+Europe/Sofia,{"en": "(UTC+02:00) Sofia"}
+Europe/Tallinn,{"en": "(UTC+02:00) Tallinn"}
+Europe/Uzhgorod,{"en": "(UTC+02:00) Uzhgorod"}
+Europe/Vilnius,{"en": "(UTC+02:00) Vilnius"}
+Europe/Zaporozhye,{"en": "(UTC+02:00) Zaporozhye"}
+Africa/Addis_Ababa,{"en": "(UTC+03:00) Addis Ababa"}
+Asia/Aden,{"en": "(UTC+03:00) Aden"}
+Asia/Amman,{"en": "(UTC+03:00) Amman"}
+Indian/Antananarivo,{"en": "(UTC+03:00) Antananarivo"}
+Africa/Asmara,{"en": "(UTC+03:00) Asmara"}
+Asia/Baghdad,{"en": "(UTC+03:00) Baghdad"}
+Asia/Bahrain,{"en": "(UTC+03:00) Bahrain"}
+Indian/Comoro,{"en": "(UTC+03:00) Comoro"}
+Africa/Dar_es_Salaam,{"en": "(UTC+03:00) Dar es Salaam"}
+Africa/Djibouti,{"en": "(UTC+03:00) Djibouti"}
+Africa/Juba,{"en": "(UTC+03:00) Juba"}
+Europe/Kaliningrad,{"en": "(UTC+03:00) Kaliningrad"}
+Africa/Kampala,{"en": "(UTC+03:00) Kampala"}
+Africa/Khartoum,{"en": "(UTC+03:00) Khartoum"}
+Asia/Kuwait,{"en": "(UTC+03:00) Kuwait"}
+Indian/Mayotte,{"en": "(UTC+03:00) Mayotte"}
+Europe/Minsk,{"en": "(UTC+03:00) Minsk"}
+Africa/Mogadishu,{"en": "(UTC+03:00) Mogadishu"}
+Africa/Nairobi,{"en": "(UTC+03:00) Nairobi"}
+Asia/Qatar,{"en": "(UTC+03:00) Qatar"}
+Asia/Riyadh,{"en": "(UTC+03:00) Riyadh"}
+Antarctica/Syowa,{"en": "(UTC+03:00) Syowa"}
+Asia/Tehran,{"en": "(UTC+03:30) Tehran"}
+Asia/Baku,{"en": "(UTC+04:00) Baku"}
+Asia/Dubai,{"en": "(UTC+04:00) Dubai"}
+Indian/Mahe,{"en": "(UTC+04:00) Mahe"}
+Indian/Mauritius,{"en": "(UTC+04:00) Mauritius"}
+Europe/Moscow,{"en": "(UTC+04:00) Moscow"}
+Asia/Muscat,{"en": "(UTC+04:00) Muscat"}
+Indian/Reunion,{"en": "(UTC+04:00) Reunion"}
+Europe/Samara,{"en": "(UTC+04:00) Samara"}
+Asia/Tbilisi,{"en": "(UTC+04:00) Tbilisi"}
+Europe/Volgograd,{"en": "(UTC+04:00) Volgograd"}
+Asia/Yerevan,{"en": "(UTC+04:00) Yerevan"}
+Asia/Kabul,{"en": "(UTC+04:30) Kabul"}
+Asia/Aqtau,{"en": "(UTC+05:00) Aqtau"}
+Asia/Aqtobe,{"en": "(UTC+05:00) Aqtobe"}
+Asia/Ashgabat,{"en": "(UTC+05:00) Ashgabat"}
+Asia/Dushanbe,{"en": "(UTC+05:00) Dushanbe"}
+Asia/Karachi,{"en": "(UTC+05:00) Karachi"}
+Indian/Kerguelen,{"en": "(UTC+05:00) Kerguelen"}
+Indian/Maldives,{"en": "(UTC+05:00) Maldives"}
+Antarctica/Mawson,{"en": "(UTC+05:00) Mawson"}
+Asia/Oral,{"en": "(UTC+05:00) Oral"}
+Asia/Samarkand,{"en": "(UTC+05:00) Samarkand"}
+Asia/Tashkent,{"en": "(UTC+05:00) Tashkent"}
+Asia/Colombo,{"en": "(UTC+05:30) Colombo"}
+Asia/Kolkata,{"en": "(UTC+05:30) Kolkata"}
+Asia/Kathmandu,{"en": "(UTC+05:45) Kathmandu"}
+Asia/Almaty,{"en": "(UTC+06:00) Almaty"}
+Asia/Bishkek,{"en": "(UTC+06:00) Bishkek"}
+Indian/Chagos,{"en": "(UTC+06:00) Chagos"}
+Asia/Dhaka,{"en": "(UTC+06:00) Dhaka"}
+Asia/Qyzylorda,{"en": "(UTC+06:00) Qyzylorda"}
+Asia/Thimphu,{"en": "(UTC+06:00) Thimphu"}
+Antarctica/Vostok,{"en": "(UTC+06:00) Vostok"}
+Asia/Yekaterinburg,{"en": "(UTC+06:00) Yekaterinburg"}
+Indian/Cocos,{"en": "(UTC+06:30) Cocos"}
+Asia/Rangoon,{"en": "(UTC+06:30) Rangoon"}
+Asia/Bangkok,{"en": "(UTC+07:00) Bangkok"}
+Indian/Christmas,{"en": "(UTC+07:00) Christmas"}
+Antarctica/Davis,{"en": "(UTC+07:00) Davis"}
+Asia/Ho_Chi_Minh,{"en": "(UTC+07:00) Ho Chi Minh"}
+Asia/Hovd,{"en": "(UTC+07:00) Hovd"}
+Asia/Jakarta,{"en": "(UTC+07:00) Jakarta"}
+Asia/Novokuznetsk,{"en": "(UTC+07:00) Novokuznetsk"}
+Asia/Novosibirsk,{"en": "(UTC+07:00) Novosibirsk"}
+Asia/Omsk,{"en": "(UTC+07:00) Omsk"}
+Asia/Phnom_Penh,{"en": "(UTC+07:00) Phnom Penh"}
+Asia/Pontianak,{"en": "(UTC+07:00) Pontianak"}
+Asia/Vientiane,{"en": "(UTC+07:00) Vientiane"}
+Asia/Brunei,{"en": "(UTC+08:00) Brunei"}
+Antarctica/Casey,{"en": "(UTC+08:00) Casey"}
+Asia/Choibalsan,{"en": "(UTC+08:00) Choibalsan"}
+Asia/Chongqing,{"en": "(UTC+08:00) Chongqing"}
+Asia/Harbin,{"en": "(UTC+08:00) Harbin"}
+Asia/Hong_Kong,{"en": "(UTC+08:00) Hong Kong"}
+Asia/Kashgar,{"en": "(UTC+08:00) Kashgar"}
+Asia/Krasnoyarsk,{"en": "(UTC+08:00) Krasnoyarsk"}
+Asia/Kuala_Lumpur,{"en": "(UTC+08:00) Kuala Lumpur"}
+Asia/Kuching,{"en": "(UTC+08:00) Kuching"}
+Asia/Macau,{"en": "(UTC+08:00) Macau"}
+Asia/Makassar,{"en": "(UTC+08:00) Makassar"}
+Asia/Manila,{"en": "(UTC+08:00) Manila"}
+Australia/Perth,{"en": "(UTC+08:00) Perth"}
+Asia/Shanghai,{"en": "(UTC+08:00) Shanghai"}
+Asia/Singapore,{"en": "(UTC+08:00) Singapore"}
+Asia/Taipei,{"en": "(UTC+08:00) Taipei"}
+Asia/Ulaanbaatar,{"en": "(UTC+08:00) Ulaanbaatar"}
+Asia/Urumqi,{"en": "(UTC+08:00) Urumqi"}
+Australia/Eucla,{"en": "(UTC+08:45) Eucla"}
+Asia/Dili,{"en": "(UTC+09:00) Dili"}
+Asia/Irkutsk,{"en": "(UTC+09:00) Irkutsk"}
+Asia/Jayapura,{"en": "(UTC+09:00) Jayapura"}
+Pacific/Palau,{"en": "(UTC+09:00) Palau"}
+Asia/Pyongyang,{"en": "(UTC+09:00) Pyongyang"}
+Asia/Seoul,{"en": "(UTC+09:00) Seoul"}
+Asia/Tokyo,{"en": "(UTC+09:00) Tokyo"}
+Australia/Adelaide,{"en": "(UTC+09:30) Adelaide"}
+Australia/Broken_Hill,{"en": "(UTC+09:30) Broken Hill"}
+Australia/Darwin,{"en": "(UTC+09:30) Darwin"}
+Australia/Brisbane,{"en": "(UTC+10:00) Brisbane"}
+Pacific/Chuuk,{"en": "(UTC+10:00) Chuuk"}
+Australia/Currie,{"en": "(UTC+10:00) Currie"}
+Pacific/Guam,{"en": "(UTC+10:00) Guam"}
+Australia/Hobart,{"en": "(UTC+10:00) Hobart"}
+Asia/Khandyga,{"en": "(UTC+10:00) Khandyga"}
+Australia/Lindeman,{"en": "(UTC+10:00) Lindeman"}
+Australia/Melbourne,{"en": "(UTC+10:00) Melbourne"}
+Pacific/Port_Moresby,{"en": "(UTC+10:00) Port Moresby"}
+Pacific/Saipan,{"en": "(UTC+10:00) Saipan"}
+Australia/Sydney,{"en": "(UTC+10:00) Sydney"}
+Asia/Yakutsk,{"en": "(UTC+10:00) Yakutsk"}
+Australia/Lord_Howe,{"en": "(UTC+10:30) Lord Howe"}
+Pacific/Efate,{"en": "(UTC+11:00) Efate"}
+Pacific/Guadalcanal,{"en": "(UTC+11:00) Guadalcanal"}
+Pacific/Kosrae,{"en": "(UTC+11:00) Kosrae"}
+Antarctica/Macquarie,{"en": "(UTC+11:00) Macquarie"}
+Pacific/Noumea,{"en": "(UTC+11:00) Noumea"}
+Pacific/Pohnpei,{"en": "(UTC+11:00) Pohnpei"}
+Asia/Sakhalin,{"en": "(UTC+11:00) Sakhalin"}
+Asia/Ust-Nera,{"en": "(UTC+11:00) Ust-Nera"}
+Asia/Vladivostok,{"en": "(UTC+11:00) Vladivostok"}
+Pacific/Norfolk,{"en": "(UTC+11:30) Norfolk"}
+Asia/Anadyr,{"en": "(UTC+12:00) Anadyr"}
+Pacific/Auckland,{"en": "(UTC+12:00) Auckland"}
+Pacific/Fiji,{"en": "(UTC+12:00) Fiji"}
+Pacific/Funafuti,{"en": "(UTC+12:00) Funafuti"}
+Asia/Kamchatka,{"en": "(UTC+12:00) Kamchatka"}
+Pacific/Kwajalein,{"en": "(UTC+12:00) Kwajalein"}
+Asia/Magadan,{"en": "(UTC+12:00) Magadan"}
+Pacific/Majuro,{"en": "(UTC+12:00) Majuro"}
+Pacific/Nauru,{"en": "(UTC+12:00) Nauru"}
+Antarctica/South_Pole,{"en": "(UTC+12:00) South Pole"}
+Pacific/Tarawa,{"en": "(UTC+12:00) Tarawa"}
+Pacific/Wake,{"en": "(UTC+12:00) Wake"}
+Pacific/Wallis,{"en": "(UTC+12:00) Wallis"}
+Pacific/Chatham,{"en": "(UTC+12:45) Chatham"}
+Pacific/Apia,{"en": "(UTC+13:00) Apia"}
+Pacific/Enderbury,{"en": "(UTC+13:00) Enderbury"}
+Pacific/Fakaofo,{"en": "(UTC+13:00) Fakaofo"}
+Pacific/Tongatapu,{"en": "(UTC+13:00) Tongatapu"}
+Pacific/Kiritimati,{"en": "(UTC+14:00) Kiritimati"}

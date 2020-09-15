@@ -1,0 +1,12 @@
+id,key,name
+1,oxford,{"en": "University of Oxford"}
+2,mit,{"en": "Massachusetts Institute of Technology"}
+3,harvard,{"en": "Harvard University"}
+4,boston_college,{"en": "Boston College"}
+5,cambridge,{"en": "University of Cambridge"}
+6,stanford,{"en": "Stanford University"}
+7,princeton,{"en": "Princeton University"}
+8,columbia,{"en": "Columbia University"}
+9,cornell,{"en": "Cornell University"}
+10,toronto,{"en": "University of Toronto"}
+11,sorbonne,{"en": "Sorbonne University"}

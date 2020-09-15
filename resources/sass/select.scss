@@ -1,0 +1,20 @@
+.dropdown {
+
+    .dropdown-toggle {
+        width: 100%;
+        background: white;
+
+        color: #666666 !important;
+        color: red !important;
+
+
+        .clear {
+            margin-top:3px;
+            margin-right:8px;
+        }
+    }
+
+    .dropdown-menu {
+        min-width: 0px;
+    }
+}

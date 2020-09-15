@@ -1,0 +1,389 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,500,600,700");
+// @import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
+
+@import url("//cdn.materialdesignicons.com/2.5.94/css/materialdesignicons.min.css");
+
+@import "resources/sass/buefy.scss";
+// @import "~bulma/sass/utilities/_all";
+
+// @import 'resources/sass/select.scss';
+@import "resources/sass/vue-multiselect.min";
+// @import '~vue-croppa/dist/vue-croppa.css';
+
+@import "~vue-popperjs/dist/vue-popper.css";
+
+.rubik-light {
+    font-weight: 300;
+}
+
+.rubik-regular {
+    font-weight: 400;
+}
+
+.rubik-medium {
+    font-weight: 500;
+}
+
+.rubik-bold {
+    font-weight: 700;
+}
+
+.raleway-regular {
+    font-family: "Raleway", sans-serif;
+}
+
+.raleway-italic {
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+}
+
+.raleway-medium {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
+
+.raleway-semibold {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+}
+
+.raleway-bold {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+
+html,
+body {
+    font-family: "Rubik", sans-serif;
+    height: 100%;
+}
+
+body {
+    overflow: hidden;
+    height: 100%;
+}
+
+button {
+    border-radius: 6px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    border-radius: 6px;
+}
+
+button {
+    padding: 0.25rem 0.5rem;
+}
+
+hr {
+    height: 1px;
+    background: lightgrey;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.main-sidebar {
+    max-width: 30%;
+}
+
+.page {
+    color: white;
+    min-height: 90vh;
+}
+
+.page-content-container {
+    width: 95%;
+    height: 85vh;
+    overflow-y: auto;
+}
+
+.card-item {
+    height: 250px;
+    min-height: 220px;
+    border-radius: 7px;
+    // margin: 0 20px 20px 0;
+
+    img {
+        height: 100%;
+        max-width: auto;
+    }
+}
+
+.card-item-small {
+    background: white;
+    border-radius: 7px;
+    color: black;
+    // margin: 0 20px 20px 0;
+}
+
+.small-border-radius {
+    border-radius: 3px;
+}
+
+.object-contain {
+    object-fit: contain;
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.object-fill {
+    object-fit: fill;
+}
+
+.regular-border-radius {
+    border-radius: 7px;
+}
+
+.regular-top-border-radius {
+    border-radius: 7px 7px 0 0;
+}
+
+.regular-left-border-radius {
+    border-radius: 7px 0 0 7px;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.5s;
+}
+
+.fade-enter,
+.fade-leave-to
+
+/* .fade-leave-active below version 2.1.8 */
+ {
+    opacity: 0;
+}
+
+.icon {
+    transition: filter 250ms ease-in-out;
+}
+
+.invert-icon {
+    filter: invert(1);
+}
+
+.icon-red {
+    filter: invert(1) brightness(0.5) sepia(1) hue-rotate(-50deg) saturate(15);
+}
+
+.icon-teal {
+    filter: invert(0.6) brightness(0.5) sepia(1) hue-rotate(120deg) saturate(6);
+}
+
+.icon-grey {
+    filter: invert(0.5);
+}
+
+.colorize-red {
+    &:hover {
+        filter: invert(1) brightness(0.5) sepia(1) hue-rotate(-50deg)
+            saturate(15);
+    }
+}
+
+.colorize-teal {
+    &:hover {
+        filter: invert(0.6) brightness(0.5) sepia(1) hue-rotate(120deg)
+            saturate(5);
+    }
+}
+
+.colorize-grey {
+    &:hover {
+        filter: invert(0.5);
+    }
+}
+
+.icon-check {
+    &:hover {
+        filter: invert(1) brightness(0.5) sepia(1) hue-rotate(-50deg)
+            saturate(15);
+    }
+}
+
+.icon-close {
+    &:hover {
+        filter: invert(0);
+    }
+}
+
+.icon-pen {
+    cursor: pointer;
+
+    &:hover {
+        filter: invert(0.6) brightness(0.5) sepia(1) hue-rotate(140deg)
+            saturate(6);
+    }
+}
+
+.dropdown-toggle {
+    border-color: #ffffff !important;
+}
+
+.iik {
+    overflow: scroll;
+}
+
+.vuetify *,
+.vuetify ::before,
+.vuetify ::after {
+    box-sizing: inherit;
+}
+
+.vuetify ::before,
+.vuetify ::after {
+    text-decoration: inherit;
+    /* Inherit text-decoration and vertical align to ::before and ::after pseudo elements */
+    vertical-align: inherit;
+}
+
+.vuetify * {
+    background-repeat: no-repeat;
+    /* Set `background-repeat: no-repeat` to all elements */
+    padding: 0;
+    /* Reset `padding` and `margin` of all elements */
+    margin: 0;
+}
+
+.radio-off {
+    background: url(svgs/check.svg);
+    background-size: cover;
+}
+
+.search-input {
+    position: relative;
+}
+
+.search-input::before {
+    background-image: url(/svgs/search.svg) no-repeat scroll 0px 0px;
+    background-size: 20px;
+    padding-left: 30px;
+}
+
+// .carousel {
+//     height: 245px;
+
+//     .carousel-cell {
+//         // background:Red;
+//         height:245px;
+//         max-height: 345px;
+//     }
+// }
+
+.flickity-viewport {
+    // margin-top: 50px;
+    // font-size: 40px;
+}
+
+// .multiselect__content-wrapper{
+//     background:white;
+//     overflow-y:scroll;
+// }
+
+.weave {
+    background: radial-gradient(black 3px, transparent 4px),
+        radial-gradient(black 3px, transparent 4px),
+        linear-gradient(#fff 4px, transparent 0),
+        linear-gradient(
+            45deg,
+            transparent 74px,
+            transparent 75px,
+            #a4a4a4 75px,
+            #a4a4a4 76px,
+            transparent 77px,
+            transparent 109px
+        ),
+        linear-gradient(
+            -45deg,
+            transparent 75px,
+            transparent 76px,
+            #a4a4a4 76px,
+            #a4a4a4 77px,
+            transparent 78px,
+            transparent 109px
+        ),
+        #fff;
+    background-size: 109px 109px, 109px 109px, 100% 6px, 109px 109px,
+        109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+
+.mac-mat {
+    background: radial-gradient(
+                circle at 0% 50%,
+                rgba(96, 16, 48, 0) 9px,
+                #613 10px,
+                rgba(96, 16, 48, 0) 11px
+            )
+            0px 10px,
+        radial-gradient(
+            at 100% 100%,
+            rgba(96, 16, 48, 0) 9px,
+            #613 10px,
+            rgba(96, 16, 48, 0) 11px
+        ),
+        #8a3;
+    background-size: 20px 20px;
+}
+
+.argyle {
+    background-color: #6d695c;
+    background-image: repeating-linear-gradient(
+            120deg,
+            rgba(255, 255, 255, 0.1),
+            rgba(255, 255, 255, 0.1) 1px,
+            transparent 1px,
+            transparent 60px
+        ),
+        repeating-linear-gradient(
+            60deg,
+            rgba(255, 255, 255, 0.1),
+            rgba(255, 255, 255, 0.1) 1px,
+            transparent 1px,
+            transparent 60px
+        ),
+        linear-gradient(
+            60deg,
+            rgba(0, 0, 0, 0.1) 25%,
+            transparent 25%,
+            transparent 75%,
+            rgba(0, 0, 0, 0.1) 75%,
+            rgba(0, 0, 0, 0.1)
+        ),
+        linear-gradient(
+            120deg,
+            rgba(0, 0, 0, 0.1) 25%,
+            transparent 25%,
+            transparent 75%,
+            rgba(0, 0, 0, 0.1) 75%,
+            rgba(0, 0, 0, 0.1)
+        );
+    background-size: 70px 120px;
+}
+
+$input-placeholder-color: red;
+
+.acceptClass {
+    font-weight: 300 !important;
+    font-size:0.8em !important;
+    color: #347f79 !important;
+}
+
+.refuseClass {
+    font-weight: 300 !important;
+    font-size: 0.8em !important;
+    color: #e3342f !important;
+}
+
+.dropdown-menu {
+    min-width: 1rem !important;
+  }

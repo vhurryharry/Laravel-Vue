@@ -1,0 +1,23 @@
+key,name
+woman,{"en": "Woman"}
+man,{"en": "Man"}
+agender,{"en": "Agender"}
+androgynus,{"en": "Androgynus"}
+bigender,{"en": "Bigender"}
+Cis-man,{"en": "Cis Man"}
+Cis-woman,{"en": "Cis Woman"}
+genderfluid,{"en": "Genderfluid"}
+genderqueer,{"en": "Genderqueer"}
+Gender-nonconforming,{"en": "Gender Nonconforming"}
+hijra,{"en": "Hijra"}
+intersex,{"en": "Intersex"}
+Non-binary,{"en": "Non-binary"}
+pangender,{"en": "Pangender"}
+transfeminine,{"en": "Transfeminine"}
+transgender,{"en": "Transgender"}
+transmasculine,{"en": "Transmasculine"}
+transsexual,{"en": "Transsexual"}
+Trans-man,{"en": "Trans Man"}
+Trans-woman,{"en": "Trans Woman"}
+Two-spirt,{"en": "Two Spirit"}
+none,{"en": "None"}
